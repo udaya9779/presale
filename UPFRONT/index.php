@@ -1,7 +1,7 @@
 <?php
 print phpinfo();
-print "TEST 1";
 
-print "TEST 2";
+
+print "updated file after checkout";
 
 ?>
